@@ -15,7 +15,7 @@ Collaborative automation reduces the need for separate
 robot-only workspaces, improves worker safety, and
 increases overall productivity by leveraging the strengths
 of both humans and robots.
-## 2. Artificial Intelligence (AI) and Machine
+## 2. Artificial Intelligence (AI) and Machine Learning
 Learning Integration
 One of the recent trends of industrial automation is AI and
 machine learning systems. By analyzing vast amounts of
